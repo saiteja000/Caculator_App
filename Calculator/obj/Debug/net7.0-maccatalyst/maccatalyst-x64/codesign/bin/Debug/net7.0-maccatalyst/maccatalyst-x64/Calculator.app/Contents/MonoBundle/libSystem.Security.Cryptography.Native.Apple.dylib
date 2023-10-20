@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/sai/Projects/Calculator/Calculator/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Calculator.app/Contents/MonoBundle/libSystem.Security.Cryptography.Native.Apple.dylib
