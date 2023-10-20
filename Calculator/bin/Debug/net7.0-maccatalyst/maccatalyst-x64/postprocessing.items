@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>Calculator.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/sai/Projects/Calculator/Calculator/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Users/sai/Desktop/new Cross platform/cs797r-project2-calculator-sai-teja-donthi/Calculator/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
       <DSymName>Calculator.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/sai/Projects/Calculator/Calculator</SourceProjectPath>
+      <SourceProjectPath>/Users/sai/Desktop/new Cross platform/cs797r-project2-calculator-sai-teja-donthi/Calculator</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>

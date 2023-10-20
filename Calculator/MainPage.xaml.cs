@@ -37,6 +37,7 @@ public partial class MainPage : ContentPage
                 clearButton.TextColor = Color.FromHex("#000000"); // Black
                 return false; // Stop the timer
             });
+
         }
 
 

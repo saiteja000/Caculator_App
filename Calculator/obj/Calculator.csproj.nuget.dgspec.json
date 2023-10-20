@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sai/Projects/Calculator/Calculator/Calculator.csproj": {}
+    "/Users/sai/Desktop/new Cross platform/cs797r-project2-calculator-sai-teja-donthi/Calculator/Calculator.csproj": {}
   },
   "projects": {
-    "/Users/sai/Projects/Calculator/Calculator/Calculator.csproj": {
+    "/Users/sai/Desktop/new Cross platform/cs797r-project2-calculator-sai-teja-donthi/Calculator/Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sai/Projects/Calculator/Calculator/Calculator.csproj",
+        "projectUniqueName": "/Users/sai/Desktop/new Cross platform/cs797r-project2-calculator-sai-teja-donthi/Calculator/Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "/Users/sai/Projects/Calculator/Calculator/Calculator.csproj",
+        "projectPath": "/Users/sai/Desktop/new Cross platform/cs797r-project2-calculator-sai-teja-donthi/Calculator/Calculator.csproj",
         "packagesPath": "/Users/sai/.nuget/packages/",
-        "outputPath": "/Users/sai/Projects/Calculator/Calculator/obj/",
+        "outputPath": "/Users/sai/Desktop/new Cross platform/cs797r-project2-calculator-sai-teja-donthi/Calculator/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
