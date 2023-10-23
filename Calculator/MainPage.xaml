@@ -2,7 +2,7 @@
 <ContentPage x:Class="Calculator.MainPage"
             xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-            BackgroundColor="Black"
+            BackgroundColor="White"
             >
     <Grid Padding="16" RowSpacing="2" ColumnSpacing="2"
       RowDefinitions="2*,*,*,*,*,*"
@@ -94,6 +94,7 @@
         <Button Text="^" Grid.Row="3" Grid.Column="4" Clicked="OnSelectOperator" />
         <Button Text="(" Grid.Row="4" Grid.Column="4" Clicked="OnSelectOperator" />
         <Button Text=")" Grid.Row="5" Grid.Column="4" Clicked="OnSelectOperator" />
+        
         
 
 

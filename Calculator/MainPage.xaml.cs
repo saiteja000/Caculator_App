@@ -63,6 +63,8 @@ public partial class MainPage : ContentPage
         this.resultText.Text += pressed;
     }
 
+
+
     void OnSelectOperator(object sender, EventArgs e)
     {
         if (sender is Button clearButton)

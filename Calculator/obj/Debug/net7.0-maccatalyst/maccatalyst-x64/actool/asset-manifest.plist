@@ -6,9 +6,9 @@
 	<dict>
 		<key>output-files</key>
 		<array>
-			<string>/Users/sai/Projects/Calculator/Calculator/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/actool/bundle/Assets.car</string>
-			<string>/Users/sai/Projects/Calculator/Calculator/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/actool/bundle/appicon.icns</string>
-			<string>/Users/sai/Projects/Calculator/Calculator/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/actool/partial-info.plist</string>
+			<string>/Users/sai/Desktop/new Cross platform/cs797r-project2-calculator-sai-teja-donthi/Calculator/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/actool/bundle/Assets.car</string>
+			<string>/Users/sai/Desktop/new Cross platform/cs797r-project2-calculator-sai-teja-donthi/Calculator/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/actool/bundle/appicon.icns</string>
+			<string>/Users/sai/Desktop/new Cross platform/cs797r-project2-calculator-sai-teja-donthi/Calculator/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/actool/partial-info.plist</string>
 		</array>
 	</dict>
 </dict>
